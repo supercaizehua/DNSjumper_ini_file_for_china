@@ -1,0 +1,2 @@
+# DNSjumper_ini_file_for_china
+在DNSjumper原本的ini配置文件里增添了国内的dns
