@@ -6,3 +6,7 @@
 1. https://www.sordum.org/
 2. 去1.下载最新版本的DNSjumper
 3. 解压, 然后使用这里提供的.ini文件覆盖
+
+# 效果
+
+![](attachments/Snipaste_2020-06-29_01-52-25.png)
